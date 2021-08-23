@@ -1,2 +1,2 @@
-# Titanic ML competition
-  - [Titanic ML competition](https://github.com/kehsan
+## Titanic ML competition
+  - [Titanic ML competition](https://github.com/kehsan/Kaggle/blob/main/titanic.ipynb)
